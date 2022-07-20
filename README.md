@@ -30,7 +30,7 @@ The [Product Owner] reviews them regularly and decides, which of these need more
 
 ### Product Backlog
 The goal of the [Product Backlog] is to have a collection of well defined (`triage/accepted`) and ready to be worked on issues.
- - Issues in the [Product Backlog] are priorized and need to be worked on in the next sprints.
+ - Issues in the [Product Backlog] are prioritized and need to be worked on in the next sprints.
  - During the [Sprint Planning] these issues can be moved to the [Sprint Backlog].
  - The [Product Backlog] holds only issues;
 these issues must be `triage/accepted`, but they don't need to be "assigned" to any person yet.
